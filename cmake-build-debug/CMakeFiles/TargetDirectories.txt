@@ -1,0 +1,5 @@
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/myLabwork.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/days1_7.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/College.dir
