@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
+      <config projectName="College" targetName="assignment1V2" />
+      <config projectName="College" targetName="dgttoword" />
       <config projectName="College" targetName="myLabwork" />
       <config projectName="College" targetName="days1_7" />
       <config projectName="College" targetName="College" />
@@ -13,7 +15,142 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e24acfd-13a0-42ec-bee5-8e6f44db22c9" name="Default" comment="" />
+    <list default="true" id="2e24acfd-13a0-42ec-bee5-8e6f44db22c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/Test.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/Test.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/add_1-5_and_avg.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/add_1-5_and_avg.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/addandavg.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/addandavg.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/Test.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/Test.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/add_1-5_and_avg.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/add_1-5_and_avg.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/addandavg.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/addandavg.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/decimalplaces.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/decimalplaces.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/diplay3num.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/diplay3num.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/diplay3num.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/enter2char.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/enter2char.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/enter2char.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/1_100_odevn.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/1_100_odevn.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/days1_7.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/days1_7.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/dgttoword.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/dgttoword.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/en2numodev.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/en2numodev.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/iftstbranch.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/iftstbranch.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/triangle.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/triangle.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/Divide1_5.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/Divide1_5.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/Divide1_5.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/for_loop.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/for_loop.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/for_loop.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/lecture6.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/lecture6.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/lecture6.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/print_evnless100.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/print_evnless100.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/print_evnless100.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem2.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem2.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem4.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem4.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem4.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1V2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1V2.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1V2.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/test2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/test2.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/test2.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/testingassignment.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/testingassignment.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/testingassignment.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/Test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/add 1-5 and average of 1.0...2.0.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/add_1-5_and_avg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab1/addandavg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/Test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/add 1-5 and average of 1.0...2.0.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/add_1-5_and_avg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/addition and averages/addandavg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab2/surface area and volume/Volumeandsurfacearea.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/decimalplaces.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/diplay3num.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab3/enter2char.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/1_100_odevn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/days1_7.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/dgttoword.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/en2numodev.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/iftstbranch.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab4/triangle.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/Divide1_5.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/for_loop.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/lecture6.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/print_evnless100.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labwork/lab5/problem5.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/assignment1V2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/test2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment 1/testingassignment.c" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/1_100_odevn.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/1_100_odevn.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/1_100_odevn.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/days1_7.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/days1_7.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/days1_7.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/dgttoword.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/dgttoword.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/dgttoword.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/en2numodev.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/en2numodev.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/en2numodev.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/iftstbranch.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/iftstbranch.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/iftstbranch.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/triangle.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/triangle.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 4/triangle.tds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab 8/myLabwork.c" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/College.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/days1_7.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/myLabwork.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/College.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/College.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +161,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="days1_7.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 4/days1_7.c">
+      <file leaf-file-name="assignment1V2.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment 1/assignment1V2.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myLabwork.c" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -46,17 +173,29 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab 4/1_100_odevn.c" />
+        <option value="$PROJECT_DIR$/Lab 4/dgttoword.c" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -82,7 +221,12 @@
             <path>
               <item name="College" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="College" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab 8" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="College" type="462c0819:PsiDirectoryNode" />
+              <item name="Labwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,6 +237,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab 4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Lab 4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,24 +260,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.days1_7">
+  <component name="RunManager" selected="Application.College">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
     <configuration name="College" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="College" TARGET_NAME="College" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="College" RUN_TARGET_NAME="College">
       <envs />
     </configuration>
-    <configuration name="days1_7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="College" TARGET_NAME="days1_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="College" RUN_TARGET_NAME="days1_7">
+    <configuration name="assignment1V2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="College" TARGET_NAME="assignment1V2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="College" RUN_TARGET_NAME="assignment1V2">
       <envs />
     </configuration>
-    <configuration name="myLabwork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="College" TARGET_NAME="myLabwork" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="College" RUN_TARGET_NAME="myLabwork">
+    <configuration name="days1_7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="College" TARGET_NAME="days1_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="College" RUN_TARGET_NAME="days1_7">
       <envs />
     </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.College" />
-      <item index="2" class="java.lang.String" itemvalue="Application.days1_7" />
-      <item index="3" class="java.lang.String" itemvalue="Application.myLabwork" />
+      <item index="1" class="java.lang.String" itemvalue="Application.assignment1V2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.College" />
+      <item index="3" class="java.lang.String" itemvalue="Application.days1_7" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -138,30 +292,33 @@
       <updated>1509735634152</updated>
       <workItem from="1509735636062" duration="277000" />
       <workItem from="1509736014889" duration="288000" />
-      <workItem from="1509736318567" duration="142000" />
+      <workItem from="1509736318567" duration="746000" />
+      <workItem from="1509737131751" duration="85000" />
+      <workItem from="1509737219785" duration="181000" />
+      <workItem from="1509737403091" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="707000" />
+    <option name="totallyTimeSpent" value="1917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26824033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -184,22 +341,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab 4/days1_7.c">
+    <entry file="file://$PROJECT_DIR$/assignment 1/assignment1V2.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/1_100_odevn.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/dgttoword.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/1_100_odevn.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/days1_7.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c" />
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -207,25 +363,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Lab 4/days1_7.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/dgttoword.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 4/1_100_odevn.c" />
+    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c" />
+    <entry file="file://$PROJECT_DIR$/assignment 1/assignment1.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-547">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/days1_7.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 8/myLabwork.c">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 1/test2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 1/assignment1V2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>

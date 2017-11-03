@@ -60,13 +60,124 @@ CMAKE_SOURCE_DIR = /Users/danielfoley/CLionProjects/College
 CMAKE_BINARY_DIR = /Users/danielfoley/CLionProjects/College/cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/assignment1V2.dir
+
+# All Build rule for target.
+CMakeFiles/assignment1V2.dir/all:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/depend
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target assignment1V2"
+.PHONY : CMakeFiles/assignment1V2.dir/all
+
+# Include target in all.
+all: CMakeFiles/assignment1V2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assignment1V2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/assignment1V2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/assignment1V2.dir/rule
+
+# Convenience name for target.
+assignment1V2: CMakeFiles/assignment1V2.dir/rule
+
+.PHONY : assignment1V2
+
+# clean rule for target.
+CMakeFiles/assignment1V2.dir/clean:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/clean
+.PHONY : CMakeFiles/assignment1V2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/assignment1V2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/College.dir
+
+# All Build rule for target.
+CMakeFiles/College.dir/all:
+	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/depend
+	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num= "Built target College"
+.PHONY : CMakeFiles/College.dir/all
+
+# Include target in all.
+all: CMakeFiles/College.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/College.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/College.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/College.dir/rule
+
+# Convenience name for target.
+College: CMakeFiles/College.dir/rule
+
+.PHONY : College
+
+# clean rule for target.
+CMakeFiles/College.dir/clean:
+	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/clean
+.PHONY : CMakeFiles/College.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/College.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/dgttoword.dir
+
+# All Build rule for target.
+CMakeFiles/dgttoword.dir/all:
+	$(MAKE) -f CMakeFiles/dgttoword.dir/build.make CMakeFiles/dgttoword.dir/depend
+	$(MAKE) -f CMakeFiles/dgttoword.dir/build.make CMakeFiles/dgttoword.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num= "Built target dgttoword"
+.PHONY : CMakeFiles/dgttoword.dir/all
+
+# Include target in all.
+all: CMakeFiles/dgttoword.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/dgttoword.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dgttoword.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/dgttoword.dir/rule
+
+# Convenience name for target.
+dgttoword: CMakeFiles/dgttoword.dir/rule
+
+.PHONY : dgttoword
+
+# clean rule for target.
+CMakeFiles/dgttoword.dir/clean:
+	$(MAKE) -f CMakeFiles/dgttoword.dir/build.make CMakeFiles/dgttoword.dir/clean
+.PHONY : CMakeFiles/dgttoword.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/dgttoword.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/myLabwork.dir
 
 # All Build rule for target.
 CMakeFiles/myLabwork.dir/all:
 	$(MAKE) -f CMakeFiles/myLabwork.dir/build.make CMakeFiles/myLabwork.dir/depend
 	$(MAKE) -f CMakeFiles/myLabwork.dir/build.make CMakeFiles/myLabwork.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num=6,7 "Built target myLabwork"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num= "Built target myLabwork"
 .PHONY : CMakeFiles/myLabwork.dir/all
 
 # Include target in all.
@@ -76,7 +187,7 @@ all: CMakeFiles/myLabwork.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/myLabwork.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/myLabwork.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/myLabwork.dir/rule
@@ -103,7 +214,7 @@ clean: CMakeFiles/myLabwork.dir/clean
 CMakeFiles/days1_7.dir/all:
 	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/depend
 	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target days1_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num= "Built target days1_7"
 .PHONY : CMakeFiles/days1_7.dir/all
 
 # Include target in all.
@@ -113,7 +224,7 @@ all: CMakeFiles/days1_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/days1_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/days1_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/days1_7.dir/rule
@@ -130,43 +241,6 @@ CMakeFiles/days1_7.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/days1_7.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/College.dir
-
-# All Build rule for target.
-CMakeFiles/College.dir/all:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/depend
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target College"
-.PHONY : CMakeFiles/College.dir/all
-
-# Include target in all.
-all: CMakeFiles/College.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/College.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/College.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/College.dir/rule
-
-# Convenience name for target.
-College: CMakeFiles/College.dir/rule
-
-.PHONY : College
-
-# clean rule for target.
-CMakeFiles/College.dir/clean:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/clean
-.PHONY : CMakeFiles/College.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/College.dir/clean
 
 .PHONY : clean
 

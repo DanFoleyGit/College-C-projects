@@ -111,6 +111,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named assignment1V2
+
+# Build rule for target.
+assignment1V2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 assignment1V2
+.PHONY : assignment1V2
+
+# fast build rule for target.
+assignment1V2/fast:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/build
+.PHONY : assignment1V2/fast
+
+#=============================================================================
+# Target rules for targets named College
+
+# Build rule for target.
+College: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 College
+.PHONY : College
+
+# fast build rule for target.
+College/fast:
+	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/build
+.PHONY : College/fast
+
+#=============================================================================
+# Target rules for targets named dgttoword
+
+# Build rule for target.
+dgttoword: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dgttoword
+.PHONY : dgttoword
+
+# fast build rule for target.
+dgttoword/fast:
+	$(MAKE) -f CMakeFiles/dgttoword.dir/build.make CMakeFiles/dgttoword.dir/build
+.PHONY : dgttoword/fast
+
+#=============================================================================
 # Target rules for targets named myLabwork
 
 # Build rule for target.
@@ -136,102 +175,32 @@ days1_7/fast:
 	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/build
 .PHONY : days1_7/fast
 
-#=============================================================================
-# Target rules for targets named College
+assignment_1/assignment1V2.o: assignment_1/assignment1V2.c.o
 
-# Build rule for target.
-College: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 College
-.PHONY : College
-
-# fast build rule for target.
-College/fast:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/build
-.PHONY : College/fast
-
-Lab_4/days1_7.o: Lab_4/days1_7.c.o
-
-.PHONY : Lab_4/days1_7.o
+.PHONY : assignment_1/assignment1V2.o
 
 # target to build an object file
-Lab_4/days1_7.c.o:
-	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/Lab_4/days1_7.c.o
-.PHONY : Lab_4/days1_7.c.o
+assignment_1/assignment1V2.c.o:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/assignment_1/assignment1V2.c.o
+.PHONY : assignment_1/assignment1V2.c.o
 
-Lab_4/days1_7.i: Lab_4/days1_7.c.i
+assignment_1/assignment1V2.i: assignment_1/assignment1V2.c.i
 
-.PHONY : Lab_4/days1_7.i
-
-# target to preprocess a source file
-Lab_4/days1_7.c.i:
-	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/Lab_4/days1_7.c.i
-.PHONY : Lab_4/days1_7.c.i
-
-Lab_4/days1_7.s: Lab_4/days1_7.c.s
-
-.PHONY : Lab_4/days1_7.s
-
-# target to generate assembly for a file
-Lab_4/days1_7.c.s:
-	$(MAKE) -f CMakeFiles/days1_7.dir/build.make CMakeFiles/days1_7.dir/Lab_4/days1_7.c.s
-.PHONY : Lab_4/days1_7.c.s
-
-Lab_8/myLabwork.o: Lab_8/myLabwork.c.o
-
-.PHONY : Lab_8/myLabwork.o
-
-# target to build an object file
-Lab_8/myLabwork.c.o:
-	$(MAKE) -f CMakeFiles/myLabwork.dir/build.make CMakeFiles/myLabwork.dir/Lab_8/myLabwork.c.o
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/Lab_8/myLabwork.c.o
-.PHONY : Lab_8/myLabwork.c.o
-
-Lab_8/myLabwork.i: Lab_8/myLabwork.c.i
-
-.PHONY : Lab_8/myLabwork.i
+.PHONY : assignment_1/assignment1V2.i
 
 # target to preprocess a source file
-Lab_8/myLabwork.c.i:
-	$(MAKE) -f CMakeFiles/myLabwork.dir/build.make CMakeFiles/myLabwork.dir/Lab_8/myLabwork.c.i
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/Lab_8/myLabwork.c.i
-.PHONY : Lab_8/myLabwork.c.i
+assignment_1/assignment1V2.c.i:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/assignment_1/assignment1V2.c.i
+.PHONY : assignment_1/assignment1V2.c.i
 
-Lab_8/myLabwork.s: Lab_8/myLabwork.c.s
+assignment_1/assignment1V2.s: assignment_1/assignment1V2.c.s
 
-.PHONY : Lab_8/myLabwork.s
-
-# target to generate assembly for a file
-Lab_8/myLabwork.c.s:
-	$(MAKE) -f CMakeFiles/myLabwork.dir/build.make CMakeFiles/myLabwork.dir/Lab_8/myLabwork.c.s
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/Lab_8/myLabwork.c.s
-.PHONY : Lab_8/myLabwork.c.s
-
-main.o: main.c.o
-
-.PHONY : main.o
-
-# target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/main.c.o
-.PHONY : main.c.o
-
-main.i: main.c.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/main.c.i
-.PHONY : main.c.i
-
-main.s: main.c.s
-
-.PHONY : main.s
+.PHONY : assignment_1/assignment1V2.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/College.dir/build.make CMakeFiles/College.dir/main.c.s
-.PHONY : main.c.s
+assignment_1/assignment1V2.c.s:
+	$(MAKE) -f CMakeFiles/assignment1V2.dir/build.make CMakeFiles/assignment1V2.dir/assignment_1/assignment1V2.c.s
+.PHONY : assignment_1/assignment1V2.c.s
 
 # Help Target
 help:
@@ -241,18 +210,14 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... assignment1V2"
+	@echo "... College"
+	@echo "... dgttoword"
 	@echo "... myLabwork"
 	@echo "... days1_7"
-	@echo "... College"
-	@echo "... Lab_4/days1_7.o"
-	@echo "... Lab_4/days1_7.i"
-	@echo "... Lab_4/days1_7.s"
-	@echo "... Lab_8/myLabwork.o"
-	@echo "... Lab_8/myLabwork.i"
-	@echo "... Lab_8/myLabwork.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... assignment_1/assignment1V2.o"
+	@echo "... assignment_1/assignment1V2.i"
+	@echo "... assignment_1/assignment1V2.s"
 .PHONY : help
 
 

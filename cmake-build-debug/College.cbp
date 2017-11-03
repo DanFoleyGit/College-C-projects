@@ -37,6 +37,138 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="assignment1V2">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/assignment1V2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment1V2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment1V2/fast">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/assignment1V2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment1V2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="College">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/College" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 College"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="College/fast">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/College" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 College/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dgttoword">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/dgttoword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 dgttoword"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dgttoword/fast">
+				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/dgttoword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 dgttoword/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="myLabwork">
 				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/myLabwork" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
@@ -125,60 +257,9 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="College">
-				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/College" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 College"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="College/fast">
-				<Option output="/Users/danielfoley/CLionProjects/College/cmake-build-debug/College" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/danielfoley/CLionProjects/College/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 College/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielfoley/CLionProjects/College/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 		</Build>
-		<Unit filename="/Users/danielfoley/CLionProjects/College/Lab 4/days1_7.c">
-			<Option target="days1_7"/>
-		</Unit>
-		<Unit filename="/Users/danielfoley/CLionProjects/College/Lab 8/myLabwork.c">
-			<Option target="myLabwork"/>
-			<Option target="College"/>
-		</Unit>
-		<Unit filename="/Users/danielfoley/CLionProjects/College/main.c">
-			<Option target="College"/>
+		<Unit filename="/Users/danielfoley/CLionProjects/College/assignment 1/assignment1V2.c">
+			<Option target="assignment1V2"/>
 		</Unit>
 		<Unit filename="/Users/danielfoley/CLionProjects/College/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

@@ -1,5 +1,7 @@
 /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/assignment1V2.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/College.dir
+/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/dgttoword.dir
 /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/myLabwork.dir
 /Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/days1_7.dir
-/Users/danielfoley/CLionProjects/College/cmake-build-debug/CMakeFiles/College.dir
